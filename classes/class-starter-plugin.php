@@ -6,7 +6,7 @@
  * @version 1.0.0
  * @since 1.0.0
  * @package Starter_Plugin
- * @author Matty
+ * @author nitya
  */
 final class Starter_Plugin {
 	/**

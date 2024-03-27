@@ -33,7 +33,7 @@ Installing "Starter Plugin" can be done either by searching for "Starter Plugin"
 
 = How do I contribute? =
 
-We encourage everyone to contribute their ideas, thoughts and code snippets. This can be done by forking the [repository over at GitHub](http://github.com/mattyza/starter-plugin/).
+We encourage everyone to contribute their ideas, thoughts and code snippets. This can be done by forking the [repository over at GitHub](http://github.com/nitya/starter-plugin/).
 
 == Screenshots ==
 

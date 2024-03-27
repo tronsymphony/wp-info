@@ -1,21 +1,21 @@
 {
-    "name": "mattyza/starter-plugin",
+    "name": "nityahoyos/starter-plugin",
     "description": "A starter WordPress plugin, ready for your next project.",
     "keywords": [
         "wordpress"
     ],
     "type": "wordpress-plugin",
-    "homepage": "https://github.com/mattyza/starter-plugin",
+    "homepage": "https://github.com/nityahoyos/starter-plugin",
     "license": "GPL-2.0+",
     "authors": [
         {
-            "name": "Matt Cohen",
-            "homepage": "https://matty.blog/"
+            "name": "nitya hoyos",
+            "homepage": "https://nityay.blog/"
         }
     ],
     "support": {
-        "issues": "https://github.com/mattyza/starter-plugin/issues",
-        "source": "https://github.com/mattyza/starter-plugin/"
+        "issues": "https://github.com/nityahoyos/starter-plugin/issues",
+        "source": "https://github.com/nityahoyos/starter-plugin/"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "3.*",

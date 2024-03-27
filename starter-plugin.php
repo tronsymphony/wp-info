@@ -4,7 +4,7 @@
  * Plugin URI: http://domain.com/starter-plugin/
  * Description: Hey there! I'm your new starter plugin.
  * Version: 1.0.0
- * Author: Matty Cohen
+ * Author: Nitya Hoyos
  * Author URI: http://domain.com/
  * Requires at least: 4.0.0
  * Tested up to: 4.0.0
@@ -14,7 +14,7 @@
  *
  * @package Starter_Plugin
  * @category Core
- * @author Matty
+ * @author nitya
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

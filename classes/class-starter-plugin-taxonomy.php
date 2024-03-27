@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @package WordPress
  * @subpackage Starter_Plugin
  * @category Plugin
- * @author Matty
+ * @author nitya
  * @since 1.0.0
  */
 class Starter_Plugin_Taxonomy {
