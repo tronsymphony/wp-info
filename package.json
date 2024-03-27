@@ -1,0 +1,22 @@
+
+{
+  "name": "react-settings-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "wp-env": "wp-env",
+    "composer": "wp-env run cli --env-cwd=wp-content/plugins/starter-plugin composer",
+    "composer:tests-cli": "wp-env run tests-cli --env-cwd=wp-content/plugins/starter-plugin composer",
+    "test:unit": "wp-env run tests-cli --env-cwd=wp-content/plugins/starter-plugin ./vendor/bin/phpunit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^25.4.0",
+    "@wordpress/env": "^9.0.0"
+  }
+}
